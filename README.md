@@ -10,8 +10,7 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielTolentino/imersaodev_alura
-"> 
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielTolentino/imersaodev_alura"> 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/DanielTolentino/imersaodev_alura">
 
   <a href="https://github.com/DanielTolentino/imersaodev_alura/blob/dfc30c454696b5f6a2add2fb5811827f53d88663/README.md/commits/master">
