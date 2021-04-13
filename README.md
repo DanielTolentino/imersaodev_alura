@@ -49,10 +49,10 @@ A Imersão Dev Alura é uma experiência online com muito conteúdo prático, pa
 - Aula 4: Alura Flix básico com display de posters pré-definidos
 - Aula 5: Alura Flix (2): Input do usuário que aceita links de posters para exibir em formato "Netflix"
 - Aula 6: Tabela de Classificação de pontos, com botões para adicionar vitórias, empates e derrotas
-- Aula 7:
-- Aula 8:
-- Aulta 9:
-- Aula 10: 
+- Aula 7: SuperTrunfo: Lógica Inicial
+- Aula 8: SuperTrupo: Layout da página
+- Aulta 9: SuperTrunfo: Refinamento da lógica e botões do jogo
+- Aula 10: Certificard
 ---
 
 
